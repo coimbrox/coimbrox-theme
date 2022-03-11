@@ -1,8 +1,13 @@
 {
     "name": "coimbrox-theme",
     "displayName": "Coimbrox Theme",
-    "description": "coimbrox theme",
+    "description": "A Theme from a new guy with crazy colors",
     "version": "0.0.1",
+    "publisher": "Coimbrox",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coimbrox/coimbrox-theme"
+    },
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -17,5 +22,13 @@
                 "path": "./themes/Coimbrox Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "theme",
+        "coimbrox",
+        "colors",
+        "purple",
+        "dark theme",
+        "temas escuros"
+    ]
 }
