@@ -1,5 +1,4 @@
 ### Olá, me Chamo Gabriel Coimbra 👋
-[![HitCount](http://hits.dwyl.com/coimbrox/coimbrox.svg)](http://hits.dwyl.com/coimbrox/coimbrox) 
 
 ## Um Pouco Sobre Mim
 
