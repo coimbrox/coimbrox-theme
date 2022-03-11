@@ -1,0 +1,21 @@
+{
+    "name": "coimbrox-theme",
+    "displayName": "Coimbrox Theme",
+    "description": "coimbrox theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coimbrox Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coimbrox Theme-color-theme.json"
+            }
+        ]
+    }
+}
