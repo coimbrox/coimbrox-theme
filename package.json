@@ -2,7 +2,7 @@
     "name": "coimbrox-theme",
     "displayName": "Coimbrox Theme",
     "description": "A Theme from a new guy with crazy colors",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Coimbrox",
     "repository": {
         "type": "git",
@@ -30,5 +30,8 @@
         "purple",
         "dark theme",
         "temas escuros"
-    ]
+    ],
+    "dependencies": {
+        "vsce": "^2.7.0"
+    }
 }
