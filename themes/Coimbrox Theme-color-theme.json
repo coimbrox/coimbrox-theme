@@ -5,8 +5,12 @@
 		"window.activeBorder": "#ff0000",
 		"editor.background": "#1c1733",
 		"editor.foreground": "#81d140",
-		"activityBarBadge.background": "#ebe72e",
-		"sideBarTitle.foreground": "#f3eeee"
+		"activityBarBadge.background": "#81d140",
+		"sideBarTitle.foreground": "#000000",
+		"sideBar.border": "#623b86",
+		"sideBarSectionHeader.border": "#623b86",
+		"activityBar.background": "#1A0A29",
+		"activityBar.foreground": "#ffff",
 	},
 	"tokenColors": [
 		{
