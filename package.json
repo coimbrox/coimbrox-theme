@@ -2,7 +2,7 @@
     "name": "coimbrox-theme",
     "displayName": "Coimbrox Theme",
     "description": "A Theme from a new guy with crazy colors",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "publisher": "Coimbrox",
     "repository": {
         "type": "git",
@@ -20,6 +20,10 @@
                 "label": "Coimbrox Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coimbrox Theme-color-theme.json"
+            },     {
+                "label": "Coimbrox Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/coimbrox-thme-dark-color-theme.json"
             }
         ]
     },
