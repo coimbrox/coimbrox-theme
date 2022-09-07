@@ -20,6 +20,11 @@
                 "label": "Coimbrox Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Coimbrox Theme-color-theme.json"
+            },
+            {
+                "label": "Coimbrox Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/coimbrox-thme-dark-color-theme.json"
             }
         ]
     },
